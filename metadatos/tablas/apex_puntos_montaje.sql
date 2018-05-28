@@ -5,7 +5,7 @@
 
 --- INICIO Grupo de desarrollo 0
 INSERT INTO apex_puntos_montaje (id, etiqueta, proyecto, proyecto_ref, descripcion, path_pm, tipo) VALUES (
-	'26', --id
+	'28', --id
 	'proyecto', --etiqueta
 	'mupum', --proyecto
 	'mupum', --proyecto_ref

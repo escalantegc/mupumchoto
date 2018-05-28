@@ -48,7 +48,7 @@ INSERT INTO apex_item (item_id, proyecto, item, padre_id, padre_proyecto, padre,
 	NULL, --redirecciona
 	NULL, --usuario
 	NULL, --exportable
-	'2018-05-28 06:47:04', --creacion
+	'2018-05-28 18:30:31', --creacion
 	'0'  --retrasar_headers
 );
 --- FIN Grupo de desarrollo 0

@@ -6,11 +6,11 @@ INSERT INTO apex_proyecto (proyecto, descripcion, descripcion_corta, estilo, con
 	'mupum', --proyecto
 	'MUPUM', --descripcion
 	'Mupum', --descripcion_corta
-	'plastik', --estilo
+	'v2_azul', --estilo
 	'1', --con_frames
 	NULL, --frames_clase
 	NULL, --frames_archivo
-	'26', --pm_impresion
+	'28', --pm_impresion
 	NULL, --salida_impr_html_c
 	NULL, --salida_impr_html_a
 	'css', --menu
@@ -20,7 +20,7 @@ INSERT INTO apex_proyecto (proyecto, descripcion, descripcion_corta, estilo, con
 	'1', --listar_multiproyecto
 	NULL, --orden
 	NULL, --palabra_vinculo_std
-	'2.7.12', --version_toba
+	'2.7.9', --version_toba
 	'1', --requiere_validacion
 	NULL, --usuario_anonimo
 	NULL, --usuario_anonimo_desc
@@ -31,20 +31,20 @@ INSERT INTO apex_proyecto (proyecto, descripcion, descripcion_corta, estilo, con
 	NULL, --validacion_debug
 	'30', --sesion_tiempo_no_interac_min
 	NULL, --sesion_tiempo_maximo_min
-	'26', --pm_sesion
+	'28', --pm_sesion
 	NULL, --sesion_subclase
 	NULL, --sesion_subclase_archivo
-	'26', --pm_contexto
+	'28', --pm_contexto
 	NULL, --contexto_ejecucion_subclase
 	NULL, --contexto_ejecucion_subclase_archivo
-	'26', --pm_usuario
+	'28', --pm_usuario
 	NULL, --usuario_subclase
 	NULL, --usuario_subclase_archivo
-	NULL, --encriptar_qs
+	'0', --encriptar_qs
 	'1', --registrar_solicitud
 	NULL, --registrar_cronometro
 	'2', --item_inicio_sesion
-	'3937', --item_pre_sesion
+	'3945', --item_pre_sesion
 	NULL, --item_pre_sesion_popup
 	NULL, --item_set_sesion
 	'1', --log_archivo
@@ -56,7 +56,7 @@ INSERT INTO apex_proyecto (proyecto, descripcion, descripcion_corta, estilo, con
 	NULL, --version_detalle
 	NULL, --version_link
 	NULL, --tiempo_espera_ms
-	NULL, --navegacion_ajax
+	'0', --navegacion_ajax
 	NULL, --codigo_ga_tracker
 	TRUE, --extension_toba
 	FALSE  --extension_proyecto

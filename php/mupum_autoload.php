@@ -37,10 +37,6 @@ class mupum_autoload
 		'mupum_servicio_web' => 'extension_toba/componentes/mupum_servicio_web.php',
 		'mupum_comando' => 'extension_toba/mupum_comando.php',
 		'mupum_modelo' => 'extension_toba/mupum_modelo.php',
-		'ci_login' => 'login/ci_login.php',
-		'cuadro_autologin' => 'login/cuadro_autologin.php',
-		'pant_login' => 'login/pant_login.php',
-		'mupum_autoload' => 'mupum_autoload.php',
 	);
 }
 ?>
